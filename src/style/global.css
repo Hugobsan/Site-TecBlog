@@ -1,0 +1,117 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.fundo-amarelo{
+    background: #ffe600;
+    width: 100%;
+}
+.text-dark{
+    color: #504635;
+}
+.cabeçalho{
+    color: #fff;
+    padding:20px 40px;
+}
+.data-postagem{
+    font-size: 0.8em;
+    padding-bottom: 20px;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+body{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+.menu{
+    text-align: center;
+    margin:10px 0px;
+}
+.menu-option{
+    font-weight: bolder;
+    padding: 10px 20px;
+    display: inline-block;
+}
+.menu a:link, .menu a:visited{
+    color: #fff;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: #ffe600;
+    background-color: #fff;
+}
+.menu a:active{
+    color: #504635;
+}
+.principal{
+    width: 80%;
+    margin: 0 auto;
+}
+.postagens{
+    width: 71.7%;
+    float:left;
+
+}
+.lateral{
+    width: 26%;
+    float: right;
+}
+.post img{
+    width:100%;
+}
+.post{
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0px;
+}
+    
+h3{
+    color: #565656;
+    background-color: #ccc;
+    padding: 5px;
+}
+h2{
+    color: #ffe600;
+}
+.recentes{
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px 0px;
+}
+.categorias{
+    background-color: #fff;
+    padding: 10px;
+}
+
+.rodape{
+    clear:both;
+    background-color: #bebebe;
+    text-align: center;
+    padding: 12px;
+    width: 80%;
+    margin: 10px auto;
+    font-weight: bolder;
+}
+.recentes-content{
+    padding:5px;
+}
+.recentes-content a{
+    font-size: 0.8em;
+}
+a:link, a:visited{
+    color: #fcd70a;
+    text-decoration: none;
+
+}
+a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+a:active{
+    color: #504635;
+}
+
+
+
